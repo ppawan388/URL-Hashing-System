@@ -63,4 +63,6 @@ Connection: close
 
 GET request on http://localhost:5000/vfjeudkON redirects to  https://www.amazon.in/b?node=1389401031&pf_rd_r=HC2KFQEN61E9FJBC7TEJ&pf_rd_p=8aa5249a-e3c3-4c80-a08f-6b922c8585a4&pd_rd_r=5fbbdc93-f791-4560-9c29-f8e066f6f3e6&pd_rd_w=Rouj3&pd_rd_wg=1BLKG&ref_=pd_gw_unk
  
-	
+![Screenshot 2022-01-20 192226](https://user-images.githubusercontent.com/65589103/150351785-dc1dafaa-616c-4bf8-8d7a-39f89487a01b.png)
+![image](https://user-images.githubusercontent.com/65589103/150351883-24257089-3117-4c35-809f-8dd287e94d81.png)
+
