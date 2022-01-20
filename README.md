@@ -1,5 +1,9 @@
 # URL-Hashing-System
-
+# backend server 
+ -> npm run dev
+# frontend
+ -> frontend/index.html
+ 
 Libraries Used
 #mongoose
 #express
