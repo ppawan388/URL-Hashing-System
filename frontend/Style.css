@@ -1,0 +1,46 @@
+body{
+    margin:0;
+    padding:0;
+    display:flex;
+    justify-content: center;
+}
+
+#url-box{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70vw;
+    height: 65vh;
+    margin-top:80px;
+    background-color: lightgray;
+    border-radius: 5px;
+}
+#inputs{
+  width:300px;
+  height: 40px;
+}
+input{
+    width:250px;
+    height: 25px;
+}
+#submit{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    width:70px;
+    height:30px;
+    background-color: black;
+    border-radius: 1px;
+}
+#short-url{
+     display:flex;
+     justify-content: center;
+     align-items: center;
+     margin-top:40px;
+    width:500px;
+    height:80px;
+   
+}
+

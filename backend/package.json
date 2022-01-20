@@ -21,6 +21,7 @@
   "homepage": "https://github.com/ppawan388/URL-Hashing-System#readme",
   "dependencies": {
     "config": "^3.3.7",
+    "cors": "^2.8.5",
     "express": "^4.17.2",
     "mongoose": "^6.1.7",
     "shortid": "^2.2.16",
